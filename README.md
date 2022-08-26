@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=30&center=true&height=60&lines=Hey%2C+I'm+Kevin+Rosario!+)](https://git.io/typing-svg)
   
-![78KI](![](https://c.tenor.com/rrR6Sw3rbFIAAAAC/akira-vaporwave.gif)
+![](https://c.tenor.com/rrR6Sw3rbFIAAAAC/akira-vaporwave.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=63&center=true&width=2500&height=137&lines=Thanks+for+dropping+by%2C+hope+you+find+some+of+my+work+interesting.)](https://git.io/typing-svg)
   
@@ -24,6 +24,7 @@ class ReadMe:
 ```
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
 ```
                “The computer programmer is a creator of universes for which he alone is the lawgiver. 
