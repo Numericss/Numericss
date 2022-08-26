@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=afiorg9000&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Numericss&color=blueviolet)
 <h1 align="center">
  <abc>
   
