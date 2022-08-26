@@ -27,10 +27,17 @@ class ReadMe:
 ---
 
 ```
-               “The computer programmer is a creator of universes for which he alone is the lawgiver. 
-                            No playwright, no stage director, no emperor, however powerful,
-                                has ever exercised such absolute authority to arrange 
-                a stage or field of battle and to command such unswervingly dutiful actors or troops.”
+
+
+
+
+      " When something is important enough, you do it even if the odds are not in your favor.
+               Life is too short for long-term grudges. Some people don't like change,
+                  but you need to embrace change if the alternative is disaster."
+      
+      
+                                        - Elon Musk
+             
                                                 
-                                                ― Joseph Weizenbaum
+                                            
 ```
