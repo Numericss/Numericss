@@ -31,11 +31,11 @@ class ReadMe:
 
 
 
-            " When something is important enough, you do it even if the odds are not in your favor.
-                    Life is too short for long-term grudges. Some people don't like change,
-                       but you need to embrace change if the alternative is disaster."
+             " When something is important enough, you do it even if the odds are not in your favor.
+                     Life is too short for long-term grudges. Some people don't like change,
+                         but you need to embrace change if the alternative is disaster."
       
-                                              - Elon Musk
+                                               - Elon Musk
              
                                                 
                                             
