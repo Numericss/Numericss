@@ -1,42 +1,31 @@
-![](https://komarev.com/ghpvc/?username=Numericss&color=blueviolet)
-<h1 align="center">
- <abc>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=30&center=true&height=60&lines=Hey%2C+I'm+Kevin+Rosario!+)](https://git.io/typing-svg)
-  
-![](https://c.tenor.com/rrR6Sw3rbFIAAAAC/akira-vaporwave.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=63&center=true&width=2500&height=137&lines=Thanks+for+dropping+by%2C+hope+you+find+some+of+my+work+interesting.)](https://git.io/typing-svg)
-  
- </abc>
-</h1>
 
-```python
-class ReadMe:
-    def __init__(self, username="Numericss", year=2022):
+```swift
+class ReadMe {
+    var username: String
+    var year: Int
+    var name: String
+    var skills: [String: [String]]
+    
+    init(username: String = "Numericss", year: Int = 2024) {
         self.username = username
-        self.name = 'Kevin Rosario '
-        self.education = {
-            'IDEprograms': ['CODERUNNER', 'VISUAL STUDIO CODE', 'XCODE'],
-            'Language': ['C#', 'Python', 'JavaScript', 'HTML', 'CSS', ],
-            'Learning': ['Low-level programing', 'Azure', 'Higher-level programming'],
-        }
-```
----
-![](./profile-3d-contrib/profile-night-rainbow.svg)
----
-
-```
+        self.year = year
+        self.name = "Kevin Rosario"
+        self.skills = [
+            "IDE": ["Xcode", "VS Code"],
+            "Languages": ["Python", "Swift", "SwiftUI"],
+            "Learning": ["Google Cloud", "Apple Intelligence AI", "OpenAI API"]
+        ]
+    }
+}
 
 
 
 
-               " When something is important enough, you do it even if the odds are not in your favor.
-                        Life is too short for long-term grudges. Some people don't like change,
-                            but you need to embrace change if the alternative is disaster."
-      
-                                                    - Elon Musk
-             
-                                                
-                                            
-```
+
+               "He gives strength to the weary and increases the power of the weak. 
+                Even youths grow tired and weary, and young men stumble and fall;
+                but those who hope in the Lord will renew their strength.
+                They will soar on wings like eagles; they will run and not grow weary,
+                they will walk and not be faint."
+                                                 - Isaiah 40:29-31
