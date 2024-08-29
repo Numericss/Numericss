@@ -1,6 +1,3 @@
-
-
-```swift
 class ReadMe {
     var username: String
     var year: Int
@@ -14,7 +11,7 @@ class ReadMe {
         self.skills = [
             "IDE": ["Xcode", "VS Code"],
             "Languages": ["Python", "Swift", "SwiftUI"],
-            "Learning": ["Google Cloud", "Apple Intelligence AI", "OpenAI API"]
+            "Learning": ["Google Cloud Platform", "Manchine Learning","Data-Analytic", "OpenAI API"]
         ]
     }
 }
@@ -23,9 +20,10 @@ class ReadMe {
 
 
 
-               "He gives strength to the weary and increases the power of the weak. 
-                Even youths grow tired and weary, and young men stumble and fall;
-                but those who hope in the Lord will renew their strength.
-                They will soar on wings like eagles; they will run and not grow weary,
-                they will walk and not be faint."
-                                                 - Isaiah 40:29-31
+
+“He gives strength to the weary and increases the power of the weak.
+Even youths grow tired and weary, and young men stumble and fall;
+but those who hope in the Lord will renew their strength.
+They will soar on wings like eagles; they will run and not grow weary,
+they will walk and not be faint.”
+— Isaiah 40:29-31
