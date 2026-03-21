@@ -1,4 +1,4 @@
-content = """<div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=220&section=header&text=Kevin%20Rosario&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=@Numericss%20%7C%20Network%20Engineer&descAlignY=58&descAlign=50)
 
@@ -100,7 +100,3 @@ I'm a Network Engineer focused on designing and securing cloud-connected infrast
 > — Isaiah 40:31
 
 </div>
-"""
-with open("/Users/kevinrosario/readm.md", "w") as f:
-    f.write(content)
-print("Done")
