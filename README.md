@@ -1,61 +1,72 @@
 <div align="center">
 
-![Kevin Rosario — Network Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=200&section=header&text=Kevin%20Rosario&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineering%20%7C%20Cloud%20%7C%20Security&descAlignY=60&descAlign=50)
+![Kevin Rosario — Network Engineer. Networking, cloud, and security.](assets/header.svg)
 
-**Building reliable networks. Securing cloud infrastructure. Automating everyday work.**
+**Reliable networks. Practical automation. Tools that solve everyday problems.**
 
-[![GitHub](https://img.shields.io/badge/%40Numericss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Numericss)
-
-</div>
-
-## About me
-
-I'm Kevin, a network engineer focused on reliable, secure infrastructure across networks and cloud environments. I work with Azure, Microsoft 365, and Google Cloud, using scripting and automation to simplify operations and solve recurring problems.
-
-- **Networks & security:** Troubleshooting connectivity, analyzing traffic, and improving resilience.
-- **Cloud operations:** Working with cloud services, security monitoring, and connected infrastructure.
-- **Automation & reporting:** Using Python, Bash, PowerShell, and Power BI to reduce manual work and make operational data easier to understand.
-- **AI tools:** Exploring practical ways to support development, troubleshooting, and documentation.
-
-## Tools & technologies
-
-### Cloud & security
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
-![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat-square)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-### Scripting & analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
-
-### Development & AI
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-8A2BE2?style=flat-square)
-
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Numericss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00B4D8&text_color=C9D1D9" width="480" alt="Kevin Rosario's GitHub statistics" />
+[Projects](#selected-projects) · [Networking notes](docs/local-service-troubleshooting.md) · [Toolbox](#toolbox) · [Connect](#connect)
 
 </div>
+
+## Hi, I'm Kevin
+
+I'm a network engineer focused on connectivity, cloud infrastructure, and security. I work with Azure, Microsoft 365, and Google Cloud, and use Python, PowerShell, and Bash to simplify recurring tasks.
+
+Here you'll find practical software projects alongside notes on how systems work and how to troubleshoot them.
+
+## Selected projects
+
+### [Bibles — Bible passages in OBS Studio](https://github.com/Numericss/Bibles)
+
+A macOS-ready package for selecting Bible passages in a dock and displaying them through an OBS browser overlay. Includes multiple translations and local installation scripts.
+
+**My recent work:** Improved server readiness checks, made custom ports consistent, clarified setup URLs, and added regression tests.
+
+`Ruby` · `JavaScript` · `Shell` · `OBS Studio`
+
+[Source & setup](https://github.com/Numericss/Bibles#readme) · [Networking walkthrough](docs/local-service-troubleshooting.md)
+
+### [Hinge — Desktop effects for macOS](https://github.com/Numericss/Hinge)
+
+A native macOS app that responds to a compatible MacBook lid sensor with desktop effects. Built on MacDuo, with motion presets, a menu-bar panel, and setup controls. **Version 3.0 is a development preview.**
+
+`Swift` · `Metal` · `macOS`
 
 <details>
-<summary>View contribution activity</summary>
+<summary>See the effect preview</summary>
 
-![GitHub contribution activity for Numericss](https://github-readme-activity-graph.vercel.app/graph?username=Numericss&bg_color=0D1117&color=58A6FF&line=00B4D8&point=ffffff&area=true&hide_border=true)
+![Hinge renderer demonstrating Duo, Roll, Shutter, Flex, and Iris effects](https://raw.githubusercontent.com/Numericss/Hinge/main/docs/media/hinge-effects.gif)
+
+*Renderer demonstration using generated artwork, not a recording of physical lid movement or desktop capture.*
 
 </details>
+
+[Source & build instructions](https://github.com/Numericss/Hinge#readme)
+
+## Networking in practice
+
+### [Troubleshooting a local service: ports, HTTP, and browser communication](docs/local-service-troubleshooting.md)
+
+A walkthrough of the Bibles setup: identify the listener, check the application response, compare browser origins, and separate server failures from overlay failures. Includes a connection diagram, read-only commands, and expected results.
+
+**Key distinction:** An open port proves that something is listening. An application health check helps confirm that the expected service is responding.
+
+## Toolbox
+
+| Area | Technologies |
+| :--- | :--- |
+| Cloud & productivity | Azure, Microsoft 365, Google Cloud |
+| Security & networking | Azure Sentinel, Wireshark |
+| Scripting & automation | Python, PowerShell, Bash |
+| Data & reporting | Power BI |
+| Development & deployment | VS Code, Vercel |
+| AI-assisted work | Claude, Claude Code, LM Studio |
+
+## Connect
+
+[Find me on GitHub](https://github.com/Numericss) · [Browse all repositories](https://github.com/Numericss?tab=repositories)
+
+For questions or feedback about a project, use its repository's Issues tab.
 
 ---
 
