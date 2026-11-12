@@ -1,18 +1,24 @@
 <div align="center">
 
-![Kevin Rosario — Network Engineer. Networking, cloud, and security.](assets/header.svg)
+![Kevin Rosario — AI Engineer & Infrastructure Analyst. AI, cloud, and infrastructure.](assets/header.svg)
 
-**Reliable networks. Practical automation. Tools that solve everyday problems.**
+**Practical AI. Reliable infrastructure. Tools that solve everyday problems.**
 
-[Projects](#selected-projects) · [Networking notes](docs/local-service-troubleshooting.md) · [Toolbox](#toolbox) · [Connect](#connect)
+[Projects](#selected-projects) · [Focus](#what-im-building-toward) · [Toolbox](#toolbox) · [Connect](#connect)
 
 </div>
 
 ## Hi, I'm Kevin
 
-I'm a network engineer focused on connectivity, cloud infrastructure, and security. I work with Azure, Microsoft 365, and Google Cloud, and use Python, PowerShell, and Bash to simplify recurring tasks.
+I'm an AI engineer and infrastructure analyst based in Puerto Rico. I build AI-assisted tools and automation on top of a hands-on infrastructure background — networking, Windows Server and Active Directory, Microsoft 365, and cloud — with **AWS** as my cloud focus.
 
-Here you'll find practical software projects alongside notes on how systems work and how to troubleshoot them.
+I use Python, PowerShell, and Bash to automate recurring work, and LLMs (Claude and local models) to design, build, and ship faster.
+
+## What I'm building toward
+
+- **AI engineering** — LLM-powered apps, agents, and tool use with the Claude API (Anthropic Academy coursework in progress)
+- **Cloud** — deploying and running AI workloads on AWS
+- **Infrastructure** — networking (CCNA in progress) and security fundamentals that keep AI systems reliable
 
 ## Selected projects
 
@@ -43,7 +49,7 @@ A native macOS app that responds to a compatible MacBook lid sensor with desktop
 
 [Source & build instructions](https://github.com/Numericss/Hinge#readme)
 
-## Networking in practice
+## Infrastructure in practice
 
 ### [Troubleshooting a local service: ports, HTTP, and browser communication](docs/local-service-troubleshooting.md)
 
@@ -55,12 +61,12 @@ A walkthrough of the Bibles setup: identify the listener, check the application 
 
 | Area | Technologies |
 | :--- | :--- |
-| Cloud & productivity | Azure, Microsoft 365, Google Cloud |
-| Security & networking | Azure Sentinel, Wireshark |
-| Scripting & automation | Python, PowerShell, Bash |
+| AI & LLMs | Claude, Claude Code, Claude API, LM Studio (local models) |
+| Cloud & productivity | AWS, Azure, Microsoft 365, Google Cloud |
+| Languages & automation | Python, TypeScript, PowerShell, Bash |
+| Security & networking | Microsoft Sentinel, Wireshark |
 | Data & reporting | Power BI |
-| Development & deployment | VS Code, Vercel |
-| AI-assisted work | Claude, Claude Code, LM Studio |
+| Development & deployment | VS Code, Vercel, Cloudflare |
 
 ## Connect
 
